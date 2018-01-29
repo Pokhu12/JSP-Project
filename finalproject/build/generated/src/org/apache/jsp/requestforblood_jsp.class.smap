@@ -1,0 +1,21 @@
+SMAP
+requestforblood_jsp.java
+JSP
+*S JSP
+*F
++ 0 requestforblood.jsp
+requestforblood.jsp
+*L
+1,68:45
+69,5:114
+73,687:119
+760,17:807
+776,2:824
+778:826,5
+779,4:831,3
+783:843
+784:844,3
+785:847
+786,4:849
+789,125:853
+*E
